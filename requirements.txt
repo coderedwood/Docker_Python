@@ -1,0 +1,5 @@
+Flask
+Pandas
+xlsxwriter
+python-dotenv
+sqlalchemy
