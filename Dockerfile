@@ -8,7 +8,6 @@ RUN apt-get update \
 SHELL ["/bin/bash", "--login" , "-c"]
 RUN pip install --upgrade pip
 SHELL ["/bin/sh", "-c"]
-
 WORKDIR /app
 
 COPY . .
